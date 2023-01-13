@@ -1,0 +1,166 @@
+﻿Sr No.,Questions,BloomsTaxClass,Keyword
+1,"Given is an array after the first partition of quicksort: 3, 0, 2, 4, 10, 8, 7, 6, 9. Which of the element could be the pivot?",remember,which
+2,How many steps are required to solve Tower of Hanoi problem with N discs?,remember,how
+3,How many comparisons are required to find element 45 using Binary Search? 27 34 36 37 38 40 42 45 60,remember,how
+4,"Given an array A[-3:4, 6:10], Find the address of A[0][7] if array elements are organized in Row-Major order. Base Address is 2100. Each element takes 2 bytes for storage.",remember,find
+5,"Consider the following list of 10 numbers: 35, 65, 15, 45, 95, 75, 85, 55, 25,5. Perform the Bubble Sort on the list and show the data after each pass. What is the Number of Exchanges and comparisons?","apply , remember","show , what"
+6,Convert the given arithmetic expression into postfix form using stack: A+B*(C/D)-(E/F)+G,evaluate,convert
+7,What are the different types of Queues? Explain each with suitable example.,understand,explain
+8,"Sort the following numbers using Quick Sort algorithm: 4,9,6,12,34,1,90,45,23. Show the Steps.",apply,show
+9,Define stable sorting algorithm. Is selection sort stable? Justify your answer with appropriate example,"remember , evaluate","define , justify"
+10,What can be the condition to check for overflow and underflow in circular queue? Explain with example.,"remember , understand","what , explain"
+11,Consider the given singly linked list in which nodes contain INFO and LINK fields.Write steps to insert the node with INFO 28 such that it preserves the ordering of the terms in increasing order of their INFO fields.,create,write
+12,The Given function tofront() takes a singly-linked list as input argument. Add the Conditions and Statements to move the last element to the front of the list and returns the modified list.,apply,add
+13,Write an algorithm to insert a node at beginning in circular linked list.,create ,write
+14,What can be the maximum number of nodes in binary tree with height 4?,remember,what
+15,What is the chromatic number of a complete graph with n vertices?,remember,what
+16,State True or False: Inorder Traversal of a Binary search tree gives data in descending order.,remember,state
+17,"In a complete Binary Tree, every internal node has exactly 2 children. What are the number of leaves in such a tree with N internal nodes? Justify with any example.","remember , evaluate","what , justify"
+18,What is the maximum height of any AVL-tree with 7 nodes? Assume that the height of a tree with a single node is 0.,"remember , analyze","what , assume"
+19,"A hash table of length 9 uses hash function h(k)= k mod 9, and linear probing for collision resolution. Insert the following values in given order into the hash table. 9,12,15,33,80,53,50,95",apply,insert
+20,"Construct Binary search tree from the following numbers: 23, 56, 45, 32, 89,12, 9, 36, 90, 22, 8, 10, 87. Delete 56 and 12. Show BST after each deletion.",apply,"construct , show"
+21,Find the minimum spanning tree of a given Graph using Kruskal’s algorithm.,remember,find
+22,Find the total weight of the minimum spanning tree using Prim’s algorithm. Start vertex is 1.,remember,find
+23,"Perform ascending order sorting for following data using Max Heap Tree. 2,7,26,25,19,17,1,90",apply,perform
+24,The Inorder and Postorder traversals of a binary tree are given below:Inorder: G D H B E I A F J C Postorder: G H D I E B J F C A Construct a binary tree and write down the preorder traversal of the binary tree. ,"apply , create","construct , write"
+25,Given the adjacency matrix of a directed graph. Find the DFS sequence. (Start vertex is 1),remember,find
+26,Construct an AVL Tree from given instructions. Show balance factors with each step.,apply,"construct , show"
+27,"What is the complexity of running Quick sort on an array of size n, which is already sorted?",remember,"what,which"
+28,"State True or False: In a linked list representation of the simple queue, insertion should be performed at end and deletion should be performed from beginning.",remember,state
+29,Why is it possible to access elements of an array in random order?,understand,why
+30,"Given an array A[-3:3, 5:10], Find the address of A[0][8] if array elements are organized in Column-Major order. Base Address is 200. Each element takes 2 bytes for storage.",remember,find
+31,"Convert the following expression into postfix form using stack: A*(B+C)*D-E. Evaluate the postfix form for A=4, B=8, C= (-2),D=3,E=9.",evaluate,convert
+32,"Given code deletes the node which doesn't follow the ascending order sequence from this linked list : 3>>>4>>>5>>>6>>>7>>>9>>>8>>>10. Write the correct statements for a1,a2,a3,a4.",create,write
+33,Explain the recursion stack for tower of Hanoi for number of discs=3.,understand,explain
+34,Explain different cases of overflow condition for Circular Queue. Also mention the condition to display the queue contents for every case.,understand,explain
+35,Consider the structure to store the details of students who have registered for the Codechef contest. Details are arranged in ascending order (not necessarily contiguous) by roll numbers. Mention the efficient approach to change the last name of a student with any given roll number. Show the steps with any example.,apply,mention
+36,Compare Bubble sort and Selection sort for the following example with respect to number of passes and complexity.,understand,compare
+37,"Consider the doubly linked list with data 34,78,65,67,39. 1. Write the steps to insert node with data 100 at end. 2. Write the steps to delete a node with data 67.",create,write
+38,"Consider the two sorted list T1: 5,8,11 and T2: 4,6,9,15,20,28. Write steps to merge the T1 and T2 in ascending order.",create,write
+39,"Write steps to replace recursion with a stack, to find the factorial of number 6.",create ,write
+40,What is the maximum number of edges in an acyclic undirected graph with n vertices?,remember,what
+41,What is the maximum height of any AVL-tree with 12 nodes?,remember,what
+42,A simple Graph has 24 edges and degree of each vertex is 4. Find the number of vertices.,remember,find
+43,Match the following:,remember,match
+44,Justify that hashing is an efficient searching method compared to Linear search and Binary search.,evaluate,justify
+45,"The keys 22, 38, 33, 12, 3, 43, 15 and 85 are inserted into an initially empty hash table of length 10 using open addressing with hash function h(k) = k mod 10 and linear probing. What is the resultant hash table and number of collisions?",remember,what
+46,Show the adjacency matrix representation of the following graph. Find the in degree and out degree of every node from adjacency matrix.,apply,"show,find"
+47,Apply Depth First traversal on following graph. Mention the sequence of each visited node using stack. Assume that Starting vertex is A and visit the vertices in alphabetical order.,apply,"apply,mention"
+48,Define the following terminologies:,remember,define
+49,"Preorder traversals of a binary search tree is given below: 45,11,23,41,39,85,77,68,96. Construct a binary search tree and write down the postorder traversal.",apply,construct
+50,"What is the advantage of AVL tree over BST? Insert the following keys in an empty AVL tree. Balance the tree wherever required. 89,67,55,54,34,33,32,22,12","remember,apply","what,insert"
+51,Draw the recursion tree for preorder traversal of a following binary tree:,analyze,draw
+52,"Find the level order traversal of a complete binary tree. 6,3,5,4,18,11,12,16,10,9 . Apply the heap sort to arrange the numbers in ascending order.","remember , apply","find , apply"
+53,Binary Tree with Threads are called as ___________,remember,
+54,Which of the following indicates pre-order traversal?,remember,which
+55,"To represent hierarchical relationship between elements, which data structure is suitable?",remember,which
+56,"For a given array of 6 elements [5, 4, 12, 23, 3, 45], how many times comparison is performed to search 23 using linear search algorithm?",apply,how many
+57,"To arrange n elements using selection sort, number of comparisons required ______",understand,
+58,Which data structure is used to implement BFS?,remember,which
+59,"A ____________ is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.",remember,
+60,Define data structure. Explain different types of data structures with suitable example.,"remember, understand","define, explain"
+61,"Construct the Binary Search Tree using following data. Show each steps. 32, 45, 12, 11, 13, 92, 78, 66, 17, 70,98, 108. Show its Preorder, Inorder and Postorder traversing sequences.",create,"construct, show"
+62,"Define the terms : full binary tree, path, isolated node, spanning tree, AVL tree",remember,define
+63,"Sort the following data using Radix sort. Trace the algorithm. 103, 12, 150, 1405, 145, 1450, 130, 1045",apply,"sort, trace"
+64,Define graph. Explain storage representation of a graph.,remember,"define, explain"
+65,"Apply Bubble Sort on below data and find out the number of comparison and number of exchanges. 2,8,7,6,15,16,5,10,1",apply,"apply, find"
+66,"What is Minimum Heap Tree? Perform ascending order sorting for following data using Minimum Heap Tree. 15, 19, 10, 7, 17, 16",apply,"what, perform"
+67,Identify the data structure which allows deletions at both ends of the list but insertion at only one end.,understand,identify
+68,Which data structure allows deleting data elements from front and inserting at rear?,remember,which
+69,An algorithm that calls itself directly or indirectly is known as,remember,
+70,"Inserting an item into the stack when stack is not full is called ____ operation and deletion of item form the stack, when stack is not empty is called ____operation.",remember,
+71,Which of the following data structure is linear data structure?,remember,which
+72,Evaluate given postfix expression using stack. Show all steps. 3 4 2 * +12 / -,evaluate,"evaluate, show"
+73,"Given a 2D array A(3:10, 10:20) stored in row major order with base address of 200 and data type is float. Find the address of element A(5,15).",apply,find
+74,Differentiate: (1) array vs linked list (2) stack vs queue,understand,differentiate
+75,Explain circular queue with insert and delete operations. How does it differ from simple queue?,understand,"explain, how"
+76,Write recursive steps to solve Tower of Hanoi problem. Which data structure is used for Tower of Hanoi problem?,remember,"write, which"
+77,Convert the below expression into its equivalent postfix expression using stack. a / b + d * e – a * c,understand,convert
+78,Explain different methods used for defining hash functions.,understand,explain
+79,Explain the insert at front and insert at end operation of singly linked list with diagram.,understand,explain
+80,What is linear and non-linear data structure? Explain with suitable example.,remember,"what, explain"
+81,Differentiate between array and linked list.,understand,differentiate
+82,Give any two applications of stack data structure.,remember,give
+83,"Let A be a two –dimensional array declared as follows: A: array [1....10] [1....15] of integer. Assuming that each integer takes one memory locations the array is stored in row-major order and the first element of the array is stored at location 100, what is the address of the element A[2][3]?",apply,what
+84,Explain an algorithm for inserting and removing an element from the simple queue.,apply,explain
+85,Differentiate linear search and binary search. Explain an algorithm with an example for searching an element in binary search.,understand,"differentiate, explain"
+86,"Show circular queue contents with front and rear after each step with size=5. (a) Insert 10, 20, 30. (b) Delete (c) Insert 40, 50, 60, 70. Initially queue is empty.",analyze,show
+87,"Sort the following data using Bubble sort. Trace the algorithm. 145,130,19, 85, 12,103,1045 10, 8, 78, 35",analyze,"sort, trace"
+88,Conversion of Infix Expression to Postfix Expression: a + b ∗ ( c^(d– e) ∗ f)– g,understand,convert
+89,Explain Tower of Hanoi with N=3 where N is the number of disk.,apply,explain
+90,"Generate index for each data using hash function and arrange them into an array A [10]. Use linear probing to resolve collision. Data: 1104, 806, 1288, 697, 1087, 835, 533, 1407 Hash function H(x) = (x mod 23) + 2.",create,generate
+91,Write an algorithm for insertion of a node in singly linked list.,create,write
+92,"State True of False with justification:
+ (i) Inorder traversal of a binary search tree arranges data into ascending order. 
+ (ii) Depth first search technique can only be used for undirected graph. 
+ (iii) The indegree of a vertex is the number of edges leaving it. ",evaluate,"state, justify"
+93,Give the correct matching for following pairs: (A)O(logn) (B) O(n) (C) O(nlogn) (D)O(n2) (P) Selection Sort (Q) Insertion Sort (R) Binary Search (S) Merge Sort,analyze,give
+94,"Construct the Binary Search Tree using following data. Show each steps. 32, 45, 12, 11, 13, 92, 78, 66, 17, 70, 98, 108. Delete 92 and then 32 from the tree. Draw tree after each deletion.",create,"construct, show, draw"
+95,Define input restricted queue and output restricted queue.,remember,define
+96,"Trace the following numbers using radix sort. 9, 1106, 9099, 6, 7101, 990, 15, 99, 10, 909",analyze,trace
+97,Explain different types of file indexing methods stating their advantages and disadvantages.,understand,explain
+98,Write and explain an algorithm for Breath First Search (BFS) traversal for undirected graph with a suitable example.,create,write
+99,Draw the adjacency matrix of the following graph and find A2 from it.,create,draw
+100,"Create a max heap tree and sort the given values in ascending order using heap sort with details. 4, -12, 16, 32, 24, 57, -11, 69, 96",create,create
+101,"Insert 45, 12, 25 and 39 into the following AVL Tree. Draw balanced tree after each insertion with balance factor and pivot node.",create,"insert, draw"
+102,Explain merge sort with detailed algorithm.,understand,explain
+103,"Given is an array after the first partition of quicksort: 3, 0, 2, 4, 10, 8, 7, 6, 9. Which of the element could be the pivot?",analyze,which
+104,How many steps are required to solve Tower of Hanoi problem with N discs?,remember,how many
+105,How many comparisons are required to find element 45 using Binary Search? 27 34 36 37 38 40 42 45 60,evaluate,how many
+106,"Given an array A[-3:4, 6:10], Find the address of A[0][7] if array elements are organized in Row-Major order. Base Address is 2100. Each element takes 2 bytes for storage.",evaluate,find
+107,"Consider the following list of 10 numbers: 35, 65, 15, 45, 95, 75, 85, 55, 25,5. Perform the Bubble Sort on the list and show the data after each pass. What is the Number of Exchanges and comparisons?",evaluate,"perform, what"
+108,Convert the given arithmetic expression into postfix form using stack:  A+B*(C/D)-(E/F)+G,understand,convert
+109,What are the different types of Queues? Explain each with suitable example.,remember,"what, explain"
+110,"Sort the following numbers using Quick Sort algorithm: 4,9,6,12,34,1,90,45,23. Show the Steps.",apply,"sort, show"
+111,Define stable sorting algorithm. Is selection sort stable? Justify your answer with appropriate example,"evaluate , analyze","define, justify"
+112,What can be the condition to check for overflow and underflow in circular queue? Explain with example.,remember,"what, explain"
+113,Consider the given singly linked list in which nodes contain INFO and LINK fields.Write steps to insert the node with INFO 28 such that it preserves the ordering of the terms in increasing order of their INFO fields.,apply,write
+114,The Given function tofront() takes a singly-linked list as input argument. Add the Conditions and Statements to move the last element to the front of the list and returns the modified list. ,create,add
+115,Write an algorithm to insert a node at beginning in circular linked list.,create,write
+116,What can be the maximum number of nodes in binary tree with height 4?,remember,what
+117,What is the chromatic number of a complete graph with n vertices?,remember,what
+118,State True or False: Inorder Traversal of a Binary search tree gives data in descending order.,remember,state
+119,"In a complete Binary Tree, every internal node has exactly 2 children. What are the number of leaves in such a tree with N internal nodes? Justify with any example.",understand,"what, justify"
+120,What is the maximum height of any AVL-tree with 7 nodes? Assume that the height of a tree with a single node is 0.,"remember , analyze","what , assume"
+121,"A hash table of length 9 uses hash function h(k)= k mod 9, and linear probing for collision resolution. Insert the following values in given order into the hash table.  9,12,15,33,80,53,50,95",create,insert
+122,"Construct Binary search tree from the following numbers: 23, 56, 45, 32, 89,12, 9, 36, 90, 22, 8, 10, 87 Delete 56 and 12. Show BST after each deletion.",create,"construct, show"
+123,Find the minimum spanning tree of a given Graph using Kruskal’s algorithm.,create,find
+124,Find the total weight of the minimum spanning tree using Prim’s algorithm. Start vertex is 1.,create,find
+125,"Perform ascending order sorting for following data using Max Heap Tree. 2,7,26,25,19,17,1,90",apply,perform
+126,The Inorder and Postorder traversals of a binary tree are given below:  Inorder: G D H B E I A F J C Postorder: G H D I E B J F C A . Construct a binary tree and write down the preorder traversal of the binary tree.,create,construct
+127,Given the adjacency matrix of a directed graph. Find the DFS sequence. (Start vertex is 1),apply,find
+128,Construct an AVL Tree from given instructions. Show balance factors with each step. 1. Insert 56 6. Insert 90 2. Insert 45 7. Delete 45 3. Insert 12 8. Insert 95 4. Insert 34 9. Insert 9 5. Insert 30,create,"construct, show"
+129,"Consider the array declaration Arr [1:5,6:7] of integer type. How many elements are there in array Arr?",evaluate,consider
+130,What is underflow condition in stack implementation?,remember,what
+131,State true or false: Worst case complexity of Insertion sort is O(n).,understand,state
+132,Differentiate array and Linked list.,analyze,differentiate
+133,What are the advantages and disadvantages of circular queue over simple queue?,analyze,"what, over"
+134,"Consider the following postfix expression: A B - C + D E F - + ^ . Assume that A=3, B=2, C=1, D=1, E=2, F=3 Evaluate the expression and answer the following:
+(i) What are the content of stack after second - operator is evaluated?
+(ii) What is the final answer?",evaluate,"consider, what"
+135,"Perform following operations on circular queue of size 5. Write the values of front and rear after each operation. (i) Insert 12,14,15,49,70 (ii) Delete two elements (iii) Insert 56,78,80 (iv) Delete one element",apply,perform
+136,"Consider the following node structure:
+struct node
+{
+int data;
+struct node *link;
+}*Head;
+Head pointer variable contains the address of the first node the circular linked list. Write steps to insert new node at the front of the circular linked list.",apply,"write, consider"
+137,"Consider the given list: 13,44,45,67,89,90. What are the number of comparisons to find 90 using Linear search and Binary search?",evaluate,consider
+138,Write steps to perform following on singly linked list: (i) Insert new node at front of the linked list (ii) Insert new node at the end of the linked list,apply,"write, perform"
+139,"What is the arrangement of following data after five passes of Bubble Sort? 34,67,32,12,78,90,65,78,89",analyze,"what, following"
+140,"Sort the following numbers in ascending order using Quick Sort : 6,9,4,3,2,1,7,8",analyze,"sort, following"
+141,Write down the steps to implement push and pop operations of stack using linked list.,create,"write, implement"
+142,State True or False: Inorder Traversal of a Binary search tree gives data in descending order.,understand,state
+143,What is the minimum number of nodes of height 3 of an AVL tree?,remember,what
+144,Which data structure is used in DFS technique?,remember,which 
+145,What are the applications of tree and graph?,remember,what
+146,Draw all possible binary search trees from any three distinct integer values.,create,draw
+147,Consider the following traversals of binary tree: Preorder Traversal: a b c d f g e Inorder Traversal: c b f d g a e . Draw the tree and find the Postorder traversal,create,"consider, draw, find"
+148,"Given is the level order traversal of binary tree: 6,8,9,4,3,90,23,12,78,66,34,33 Draw the tree and convert it into Max-heap.",create,draw
+149,What is Graph? Explain different ways of Graph representation.,understand,"what,different"
+150,Give the difference between: (i) Tree and Graph (ii) Complete Binary tree and Perfect binary tree,understand,difference
+151,What is meant by collision resolution technique in Hashing? Explain any one technique with example.,"remember, understand","what, explain"
+152,Comment whether the graph is connected or not using the BFS technique.(Start vertex is 0),analyze,comment
+153,"What is an AVL tree? Perform following operations on an AVL tree: (i) Insert 23,16,56,67,60,10,9,7,6 (ii) Delete 10,67","remember, apply","what, perform"
+154,"Insert the given numbers in binary search tree: 1,2,3,4,5,6,7,8,9 and mention the disadvantage of binary search tree.",apply,"insert, mention"
